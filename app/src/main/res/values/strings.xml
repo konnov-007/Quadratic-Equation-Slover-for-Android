@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quadratic equation solver</string>
+    <string name="hello_world">Hello World</string>
+    <string name="clear">Clear</string>
+    <string name="x2">x^2 + </string>
+    <string name="x">x + </string>
+    <string name="equals_zero"> = 0</string>
+    <string name="result">result</string>
+    <string name="contact">contact us</string>
+    <string name="quit">quit</string>
+</resources>
